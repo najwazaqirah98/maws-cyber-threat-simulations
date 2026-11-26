@@ -50,3 +50,7 @@ Educational and research use only. These scripts model generic signal-level effe
 ## License
 
 Add a license of your choice (for example MIT) as `LICENSE`.
+
+## Author
+
+Najwa Zaqirah Taufik
